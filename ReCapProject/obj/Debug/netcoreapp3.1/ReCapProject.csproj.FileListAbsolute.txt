@@ -1,0 +1,5 @@
+C:\Users\musta\source\repos\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.AssemblyInfo.cs
+C:\Users\musta\source\repos\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.csproj.CoreCompileInputs.cache
